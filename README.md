@@ -1,5 +1,5 @@
 # allaboutme
-boutme/
+aboutme/
 │
 ├── index.html          ← Main homepage (About Jay Mehta + map + favorite cities)
 ├── hobbies.html        ← Page showing your hobbies with images and descriptions
